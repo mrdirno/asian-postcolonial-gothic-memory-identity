@@ -1,0 +1,65 @@
+{
+  "book_id": "house-that-swallowed-rain",
+  "title": "The House That Swallowed Rain",
+  "tagline": "A Gothic Tale of Colonial Memory and Postcolonial Haunting",
+  "target_words": 70000,
+  "actual_words": 83211,
+  "status": "SEED",
+  "license": "CC0",
+
+  "themes": [
+    "Colonial Legacy and Postcolonial Identity",
+    "Memory as Inheritance",
+    "Land Rights vs Paper Rights",
+    "The Haunted House as Historical Witness"
+  ],
+
+  "chapters": [
+    {"ch": 1, "title": "The Arrival", "words": 3500},
+    {"ch": 2, "title": "The Ledger", "words": 3400},
+    {"ch": 3, "title": "The Photographs", "words": 3500},
+    {"ch": 4, "title": "The First Night", "words": 3400},
+    {"ch": 5, "title": "The Archives", "words": 3500},
+    {"ch": 6, "title": "The Names Paired", "words": 3500},
+    {"ch": 7, "title": "The Surveyor", "words": 3400},
+    {"ch": 8, "title": "The Rocking Chair", "words": 3500},
+    {"ch": 9, "title": "The Old Maps", "words": 3500},
+    {"ch": 10, "title": "The Stone That Knows", "words": 3600},
+    {"ch": 11, "title": "The Path of Memory", "words": 3500},
+    {"ch": 12, "title": "The Listening Place", "words": 3400},
+    {"ch": 13, "title": "The Court of Trees", "words": 3500},
+    {"ch": 14, "title": "The Duel of Documents", "words": 3600},
+    {"ch": 15, "title": "The Warm Stone", "words": 3500},
+    {"ch": 16, "title": "The Monsoon Warning", "words": 3400},
+    {"ch": 17, "title": "The Final Pair", "words": 3500},
+    {"ch": 18, "title": "The Mother's Story", "words": 3500},
+    {"ch": 19, "title": "The Land Speaks", "words": 3500},
+    {"ch": 20, "title": "The Reclamation", "words": 3500},
+    {"ch": 21, "title": "The New Ledger", "words": 3500},
+    {"ch": 22, "title": "The House Remembers", "words": 3400},
+    {"ch": 23, "title": "The Rain Returns", "words": 3500},
+    {"ch": 24, "title": "Inheritance", "words": 3600}
+  ],
+
+  "entry_points": {
+    "story": [
+      "What if the ledger extended further back—to the Portuguese, the Dutch?",
+      "Write the story from the house's perspective",
+      "Explore one of the paired deaths in full detail",
+      "What happens to Ameena ten years later?"
+    ],
+    "technical": [
+      "Interactive map of the estate with hotspots",
+      "Audio adaptation with Malaysian voice actors",
+      "Graphic novel in the style of Southeast Asian komik"
+    ]
+  },
+
+  "origin": {
+    "methodology": "Council-Prism Generation (Darwin × Dostoevsky × Sagan × da Vinci)",
+    "sasi_score": 8.5,
+    "council": ["Charles Darwin", "Fyodor Dostoevsky", "Carl Sagan", "Leonardo da Vinci"]
+  },
+
+  "cover_prompt": "A weathered colonial-era Malaysian mansion at dusk, dark belian wood absorbing rain, shuttered windows like closed eyes, mist rising from surrounding jungle, a lone kerosene lamp glowing amber in one window, monsoon clouds gathering overhead. Rendered in the atmospheric style of Gustave Doré with watercolor textures. Book cover framing, centered composition, dramatic low angle. Soft diffused twilight with warm lamp glow contrast against cool blue mist. Masterpiece, best quality, ultra detailed, professional composition, sharp focus, 8k resolution."
+}
